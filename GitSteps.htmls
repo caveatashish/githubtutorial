@@ -11,4 +11,4 @@ This file will include the git step need to be taken
 
 3) git commit -m "This will be commit message"
 
-4) git push origin main
+4) git push origin main : To upload local repo content to remote repo
