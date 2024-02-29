@@ -1,1 +1,12 @@
 This file will include the git step need to be taken
+
+1) Git status
+    => Show git status a) M statnds for Modified
+                        b) U stands for untracked
+
+2)  git add 
+    git add "Filename.html" for a single file and git . command to add all the files
+
+: To add the untracked file to git local repo
+
+3) git commit -m "This will be commit message"
